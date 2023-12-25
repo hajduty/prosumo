@@ -1,0 +1,17 @@
+lowestY: '60'
+sumo-cords:
+  spawn:
+    X: ''
+    Y: ''
+    Z: ''
+    World: ''
+  player1:
+    X: ''
+    Y: ''
+    Z: ''
+    World: ''
+  player2:
+    X: ''
+    Y: ''
+    Z: ''
+    World: ''

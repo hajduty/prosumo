@@ -1,0 +1,17 @@
+name: TestPlugin
+version: '${project.version}'
+main: me.hajder.testplugin.SumoPlugin
+api-version: '1.20'
+commands:
+  sumo-start:
+    description: "start sumo"
+    usage: "/sumo-start"
+    aliases: [sumo-start, sstart]
+    permission: sumo.start
+    permission-message: "No perms lil bro"
+  sumo-set:
+    description: "set sumo pos"
+    usage: "/sumo-set"
+    aliases: [ sumo-set, sset ]
+    permission: sumo.set
+    permission-message: "No perms lil bro"
