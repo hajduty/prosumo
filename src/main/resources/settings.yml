@@ -1,17 +1,33 @@
 lowestY: '60'
+startingCountdown: 10
+glassCountdown: 3
+messages:
+  starting: "Ett sumo event börjar om %s sekunder!"
+  nextPlayer: "Du kommer att möta %v snart, var redo!"
+  winner: "%p har vunnit sumo eventet!"
+  countdown: "Match startar om %s"
+  extraLife: "Du har fått ett till extra försök, se till att vinna nästa LOOL"
+  lost: "Du har förlorat!!! XD"
+  sumoAlreadyInProgress: "Ett sumo event är redan aktivt!"
 sumo-cords:
   spawn:
     X: ''
     Y: ''
     Z: ''
+    Yaw: ''
+    Pitch: ''
     World: ''
   player1:
     X: ''
     Y: ''
     Z: ''
+    Yaw: ''
+    Pitch: ''
     World: ''
   player2:
     X: ''
     Y: ''
     Z: ''
+    Yaw: ''
+    Pitch: ''
     World: ''
